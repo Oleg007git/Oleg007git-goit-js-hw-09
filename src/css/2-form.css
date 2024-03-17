@@ -1,0 +1,17 @@
+ul,
+ol {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+  text-decoration: none;
+  list-style-type: none;
+}
+.feedback-form {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  margin-left: 30px;
+}
+.title {
+  margin-left: 30px;
+}
